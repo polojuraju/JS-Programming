@@ -1,6 +1,6 @@
 # JS-Programming
 
-####
+#### Question 1:
 ``` 
 let a = 12,
 b = 3;
@@ -9,7 +9,7 @@ console.log([a,b]);
 ```
 O/p: [3,12] Swap the values inside a and b, without using extra variables.
 
-### 2
+### Question 2:
 ``` 
 var point = [1,2],
 segment = [point, [5,5]];
